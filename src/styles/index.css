@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.navbar-animalc {
+    background: linear-gradient(90deg, rgba(137,203,161,1) 46%, rgba(189,202,108,1) 87%, rgba(246,219,134,1) 100%);
+}
+
+.logo {
+    height: 100px;
+}
+
+.footer {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(137,203,161,1) 46%, rgba(189,202,108,1) 87%, rgba(246,219,134,1) 100%);
+}
